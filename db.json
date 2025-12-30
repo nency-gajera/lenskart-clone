@@ -1,0 +1,1913 @@
+{
+    "lenskart": [
+        {
+            "id": "LE0001",
+            "name": "Black Full Rim Square",
+            "brand": "Lenskart Air",
+            "frameType": "Rimless",
+            "shape": "Oval",
+            "color": "Black",
+            "gender": "Women",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.8,
+            "reviewCount": 9295,
+            "inStock": true,
+            "sku": "LE0001",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-square-lenskart-air-fusion-la-e13069-c1-eyeglasses_lenskart-air-la-e13033-c1-eyeglasses_eyeglasses_g_7876_2a_28july23.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-square-lenskart-air-fusion-la-e13069-c1-eyeglasses_lenskart-air-la-e13033-c1-eyeglasses_eyeglasses_g_7876_2a_28july23.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-square-lenskart-air-fusion-la-e13069-c1-eyeglasses_lenskart-air-la-e13033-c1-eyeglasses_eyeglasses_g_7875_1b_28july23.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Polarized",
+                "frameWeight_g": 22
+            },
+            "tags": [
+                "budget",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.293985Z"
+        },
+        {
+            "id": "LE0002",
+            "name": "Dark Gunmetal Full Rim Square",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Gunmetal",
+            "gender": "Unisex",
+            "size": "Wide",
+            "price": 3300,
+            "originalPrice": 3900,
+            "discount": "15% OFF",
+            "rating": 4.9,
+            "reviewCount": 1969,
+            "inStock": true,
+            "sku": "LE0002",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0002_thumb.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16116-c2-eyeglasses_g_8778_19_10_2023.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/i/john-jacobs-jj-e16116-c2-eyeglasses_g_8777_19_10_2023.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Blue Light",
+                "frameWeight_g": 35
+            },
+            "tags": [
+                "bestseller",
+                "budget",
+                "plastic"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294004Z"
+        },
+        {
+            "id": "VI0003",
+            "name": "Gold Half Rim Cat Eye",
+            "brand": "Vincent Chase",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Gold",
+            "gender": "Women",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.9,
+            "reviewCount": 724,
+            "inStock": true,
+            "sku": "VI0003",
+            "images": {
+                "thumbnail": "https://example.com/images/VI0003_thumb.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e17135-c1-eyeglasses__dsc5594_03_06_2024.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e17135-c1-eyeglasses__dsc5593_03_06_2024.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Clear",
+                "frameWeight_g": 38
+            },
+            "tags": [
+                "new",
+                "plastic",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294028Z"
+        },
+        {
+            "id": "ZY0004",
+            "name": "Black Full Rim Square",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Black",
+            "gender": "Men",
+            "size": "Medium",
+            "price": 3300,
+            "originalPrice": 3900,
+            "discount": "15% OFF",
+            "rating": 4.8,
+            "reviewCount": 1878,
+            "inStock": true,
+            "sku": "ZY0004",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e13343-c2-eyeglasses_john-jacobs-jj-e13343-c2-eyeglasses_g_5787.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e13343-c2-eyeglasses_john-jacobs-jj-e13343-c2-eyeglasses_g_5787.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-e13343-c2-eyeglasses_g_5786.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Blue Light",
+                "frameWeight_g": 49
+            },
+            "tags": [
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294059Z"
+        },
+        {
+            "id": "VI0005",
+            "name": "Black Full Rim Square",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Black",
+            "gender": "Kids",
+            "size": "Extra Wide",
+            "price": 2400,
+            "originalPrice": 2900,
+            "discount": "17% OFF",
+            "rating": 4.9,
+            "reviewCount": 398,
+            "inStock": true,
+            "sku": "VI0005",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17269-c1-eyeglasses__dsc7769_03_04_2025.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17269-c1-eyeglasses__dsc7769_03_04_2025.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e17269-c1-eyeglasses__dsc7766_03_04_2025.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Polarized",
+                "frameWeight_g": 13
+            },
+            "tags": [
+                "budget",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294071Z"
+        },
+        {
+            "id": "JO0006",
+            "name": "Rose Gold Half Rim Cat Eye",
+            "brand": "John Jacobs",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Rose Gold",
+            "gender": "Kids",
+            "size": "Narrow",
+            "price": 4300,
+            "originalPrice": 4900,
+            "discount": "12% OFF",
+            "rating": 4.9,
+            "reviewCount": 337,
+            "inStock": true,
+            "sku": "JO0006",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/rose-gold-half-rim-cat-eye-john-jacobs-supreme-steel-jj-e70077-c1-eyeglasses__dsc7255_18_10_2024.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/rose-gold-half-rim-cat-eye-john-jacobs-supreme-steel-jj-e70077-c1-eyeglasses__dsc7255_18_10_2024.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/rose-gold-half-rim-cat-eye-john-jacobs-supreme-steel-jj-e70077-c1-eyeglasses__dsc7254_18_10_2024.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Photochromic",
+                "frameWeight_g": 30
+            },
+            "tags": [
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294082Z"
+        },
+        {
+            "id": "VI0007",
+            "name": "Black Full Rim Geometric",
+            "brand": "Vincent Chase",
+            "frameType": "Full Rim",
+            "shape": "Geometric",
+            "color": "Black",
+            "gender": "Men",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.8,
+            "reviewCount": 1389,
+            "inStock": false,
+            "sku": "VI0007",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e15478-c2-eyeglasses_g_9366_05_16_23.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e15478-c2-eyeglasses_g_9366_05_16_23.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e15478-c2-eyeglasses_g_9365_05_16_23.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Blue Light",
+                "frameWeight_g": 35
+            },
+            "tags": [
+                "lightweight",
+                "new",
+                "plastic"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294094Z"
+        },
+        {
+            "id": "LE0008",
+            "name": "Black Full Rim Square",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Black",
+            "gender": "Men",
+            "size": "Wide",
+            "price": 4300,
+            "originalPrice": 4900,
+            "discount": "12% OFF",
+            "rating": 4.9,
+            "reviewCount": 270,
+            "inStock": true,
+            "sku": "LE0008",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/black-full-rim-rectangle-john-jacobs-rich-acetate-jj-e16894-c1-eyeglasses_img_0477_15_03_2024.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/black-full-rim-rectangle-john-jacobs-rich-acetate-jj-e16894-c1-eyeglasses_img_0477_15_03_2024.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/black-full-rim-rectangle-john-jacobs-rich-acetate-jj-e16894-c1-eyeglasses_img_0476_15_03_2024.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Non-prescription",
+                "frameWeight_g": 30
+            },
+            "tags": [
+                "lightweight",
+                "metal"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294111Z"
+        },
+        {
+            "id": "LE0009",
+            "name": "Gray Transparent Full Rim Square",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Gray",
+            "gender": "Unisex",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.8,
+            "reviewCount": 5431,
+            "inStock": true,
+            "sku": "LE0009",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gray-full-rim-rectangle-lenskart-air-signia-la-e14573-c3-eyeglasses_g_2478_09-july.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gray-full-rim-rectangle-lenskart-air-signia-la-e14573-c3-eyeglasses_g_2478_09-july.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gray-full-rim-rectangle-lenskart-air-signia-la-e14573-c3-eyeglasses_g_2477_09-july.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Polarized",
+                "frameWeight_g": 44
+            },
+            "tags": [
+                "bestseller",
+                "budget"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294131Z"
+        },
+        {
+            "id": "JO0010",
+            "name": "Pink Transparent Full Rim Cat Eye",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Cat Eye",
+            "color": "Pink",
+            "gender": "Kids",
+            "size": "Medium",
+            "price": 3300,
+            "originalPrice": 3900,
+            "discount": "15% OFF",
+            "rating": 4.9,
+            "reviewCount": 242,
+            "inStock": true,
+            "sku": "JO0010",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-transparent-gold-pink-full-rim-cat-eye-john-jacobs-gilded-jewels-jj-e15275-c2-eyeglasses_g_0652_27_jan_2023.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-transparent-gold-pink-full-rim-cat-eye-john-jacobs-gilded-jewels-jj-e15275-c2-eyeglasses_g_0652_27_jan_2023.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/pink-transparent-gold-pink-full-rim-cat-eye-john-jacobs-gilded-jewels-jj-e15275-c2-eyeglasses_g_0651_27_jan_2023.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Blue Light",
+                "frameWeight_g": 10
+            },
+            "tags": [
+                "lightweight",
+                "polarized",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294143Z"
+        },
+        {
+            "id": "EY0011",
+            "name": "Silver Full Rim Square",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Silver",
+            "gender": "Women",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.8,
+            "reviewCount": 1525,
+            "inStock": true,
+            "sku": "EY0011",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-transparent-full-rim-square-lenskart-air-fusion-la-e17022-c2-eyeglasses__dsc4890_28_05_2024_28_05_2024.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-transparent-full-rim-square-lenskart-air-fusion-la-e17022-c2-eyeglasses__dsc4890_28_05_2024_28_05_2024.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-transparent-full-rim-square-lenskart-air-fusion-la-e17022-c2-eyeglasses__dsc4889_28_05_2024_28_05_2024.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Photochromic",
+                "frameWeight_g": 44
+            },
+            "tags": [
+                "plastic",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294152Z"
+        },
+        {
+            "id": "LE0012",
+            "name": "Dark Brown Full Rim Round",
+            "brand": "Vincent Chase",
+            "frameType": "Full Rim",
+            "shape": "Round",
+            "color": "Brown",
+            "gender": "Women",
+            "size": "Narrow",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.9,
+            "reviewCount": 3873,
+            "inStock": true,
+            "sku": "LE0012",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/copper-brown-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c2-eyeglasses_g_3676_10_14_22.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/copper-brown-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c2-eyeglasses_g_3676_10_14_22.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/copper-brown-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c2-eyeglasses_g_3675_10_14_22.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Non-prescription",
+                "frameWeight_g": 16
+            },
+            "tags": [
+                "budget",
+                "polarized",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294163Z"
+        },
+        {
+            "id": "VI0013",
+            "name": "Green Full Rim Rectangle",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Rectangle",
+            "color": "Green",
+            "gender": "Men",
+            "size": "Medium",
+            "price": 3300,
+            "originalPrice": 3900,
+            "discount": "15% OFF",
+            "rating": 4.8,
+            "reviewCount": 931,
+            "inStock": true,
+            "sku": "VI0013",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/green-brown-full-rim-rectangle-john-jacobs-tr-flex-jj-e16847-c1-eyeglasses__dsc5069_23_04_2024.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/green-brown-full-rim-rectangle-john-jacobs-tr-flex-jj-e16847-c1-eyeglasses__dsc5069_23_04_2024.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/i/green-brown-full-rim-rectangle-john-jacobs-tr-flex-jj-e16847-c1-eyeglasses__dsc5067_23_04_2024.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Polarized",
+                "frameWeight_g": 35
+            },
+            "tags": [
+                "metal",
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294193Z"
+        },
+        {
+            "id": "VI0014",
+            "name": "Silver Full Rim Square",
+            "brand": "Vincent Chase",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Silver",
+            "gender": "Unisex",
+            "size": "Medium",
+            "price": 1400,
+            "originalPrice": 1900,
+            "discount": "26% OFF",
+            "rating": 4.8,
+            "reviewCount": 1872,
+            "inStock": true,
+            "sku": "VI0014",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e15349-c3-eyeglasses_csvfile-1682510005458-g_1843.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e15349-c3-eyeglasses_csvfile-1682510005458-g_1843.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e15349-c3-eyeglasses_csvfile-1682509990345-g_1842.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Clear",
+                "frameWeight_g": 27
+            },
+            "tags": [
+                "budget",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294210Z"
+        },
+        {
+            "id": "NE0015",
+            "name": "Dark Gunmetal Rimless Rectangle",
+            "brand": "John Jacobs",
+            "frameType": "Rimless",
+            "shape": "Rectangle",
+            "color": "Gunmetal",
+            "gender": "Kids",
+            "size": "Medium",
+            "price": 3300,
+            "originalPrice": 3900,
+            "discount": "15% OFF",
+            "rating": 4.8,
+            "reviewCount": 2253,
+            "inStock": true,
+            "sku": "NE0015",
+            "images": {
+                "thumbnail": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-rimless-jj-e12565-c3-eyeglasses_john-jacobs-rimless-jj-e12565-c3-eyeglasses_g_3254.jpg",
+                "front": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-rimless-jj-e12565-c3-eyeglasses_john-jacobs-rimless-jj-e12565-c3-eyeglasses_g_3254.jpg",
+                "side": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-rimless-jj-e12565-c3-eyeglasses_john-jacobs-rimless-jj-e12565-c3-eyeglasses_g_3253.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Blue Light",
+                "frameWeight_g": 41
+            },
+            "tags": [
+                "budget",
+                "lightweight",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294225Z"
+        },
+        {
+            "id": "ID0016",
+            "name": "Lenskart Air Square Rimless 16",
+            "brand": "Lenskart Air",
+            "frameType": "Rimless",
+            "shape": "Square",
+            "color": "Pink",
+            "gender": "Unisex",
+            "size": "Extra Narrow",
+            "price": 5574,
+            "originalPrice": 7080,
+            "discount": "21% OFF",
+            "rating": 4.3,
+            "reviewCount": 2719,
+            "inStock": true,
+            "sku": "LE0016",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0016_thumb.jpg",
+                "front": "https://example.com/images/LE0016_front.jpg",
+                "side": "https://example.com/images/LE0016_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Non-prescription",
+                "frameWeight_g": 13
+            },
+            "tags": [
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294235Z"
+        },
+        {
+            "id": "ID0017",
+            "name": "Fossil Oval Half 17",
+            "brand": "Fossil",
+            "frameType": "Half Rim",
+            "shape": "Oval",
+            "color": "Green",
+            "gender": "Unisex",
+            "size": "Narrow",
+            "price": 7662,
+            "originalPrice": 9660,
+            "discount": "21% OFF",
+            "rating": 3.9,
+            "reviewCount": 6843,
+            "inStock": true,
+            "sku": "FO0017",
+            "images": {
+                "thumbnail": "https://example.com/images/FO0017_thumb.jpg",
+                "front": "https://example.com/images/FO0017_front.jpg",
+                "side": "https://example.com/images/FO0017_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Clear",
+                "frameWeight_g": 27
+            },
+            "tags": [
+                "lightweight"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294245Z"
+        },
+        {
+            "id": "ID0018",
+            "name": "OWNDAYS Aviator Half 18",
+            "brand": "OWNDAYS",
+            "frameType": "Half Rim",
+            "shape": "Aviator",
+            "color": "Transparent",
+            "gender": "Women",
+            "size": "Extra Wide",
+            "price": 2221,
+            "originalPrice": 3869,
+            "discount": "43% OFF",
+            "rating": 4.6,
+            "reviewCount": 8764,
+            "inStock": true,
+            "sku": "OW0018",
+            "images": {
+                "thumbnail": "https://example.com/images/OW0018_thumb.jpg",
+                "front": "https://example.com/images/OW0018_front.jpg",
+                "side": "https://example.com/images/OW0018_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Clear",
+                "frameWeight_g": 44
+            },
+            "tags": [
+                "bestseller"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294255Z"
+        },
+        {
+            "id": "ID0019",
+            "name": "Lenskart Air Geometric Full 19",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Geometric",
+            "color": "Blue",
+            "gender": "Unisex",
+            "size": "Narrow",
+            "price": 5836,
+            "originalPrice": 6695,
+            "discount": "13% OFF",
+            "rating": 4.2,
+            "reviewCount": 865,
+            "inStock": true,
+            "sku": "LE0019",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0019_thumb.jpg",
+                "front": "https://example.com/images/LE0019_front.jpg",
+                "side": "https://example.com/images/LE0019_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Non-prescription",
+                "frameWeight_g": 19
+            },
+            "tags": [
+                "lightweight",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294265Z"
+        },
+        {
+            "id": "ID0020",
+            "name": "New Balance Square Half 20",
+            "brand": "New Balance",
+            "frameType": "Half Rim",
+            "shape": "Square",
+            "color": "Gunmetal",
+            "gender": "Kids",
+            "size": "Extra Narrow",
+            "price": 7211,
+            "originalPrice": 8375,
+            "discount": "14% OFF",
+            "rating": 4.5,
+            "reviewCount": 9870,
+            "inStock": true,
+            "sku": "NE0020",
+            "images": {
+                "thumbnail": "https://example.com/images/NE0020_thumb.jpg",
+                "front": "https://example.com/images/NE0020_front.jpg",
+                "side": "https://example.com/images/NE0020_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Blue Light",
+                "frameWeight_g": 26
+            },
+            "tags": [
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294284Z"
+        },
+        {
+            "id": "ID0021",
+            "name": "Fossil Square Half 21",
+            "brand": "Fossil",
+            "frameType": "Half Rim",
+            "shape": "Square",
+            "color": "Pink",
+            "gender": "Kids",
+            "size": "Extra Narrow",
+            "price": 3261,
+            "originalPrice": 4111,
+            "discount": "21% OFF",
+            "rating": 4.0,
+            "reviewCount": 184,
+            "inStock": true,
+            "sku": "FO0021",
+            "images": {
+                "thumbnail": "https://example.com/images/FO0021_thumb.jpg",
+                "front": "https://example.com/images/FO0021_front.jpg",
+                "side": "https://example.com/images/FO0021_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Polarized",
+                "frameWeight_g": 37
+            },
+            "tags": [
+                "budget",
+                "metal"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294294Z"
+        },
+        {
+            "id": "ID0022",
+            "name": "Vista Square Full 22",
+            "brand": "Vista",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Silver",
+            "gender": "Women",
+            "size": "Extra Wide",
+            "price": 6398,
+            "originalPrice": 7897,
+            "discount": "19% OFF",
+            "rating": 4.8,
+            "reviewCount": 5356,
+            "inStock": true,
+            "sku": "VI0022",
+            "images": {
+                "thumbnail": "https://example.com/images/VI0022_thumb.jpg",
+                "front": "https://example.com/images/VI0022_front.jpg",
+                "side": "https://example.com/images/VI0022_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Clear",
+                "frameWeight_g": 45
+            },
+            "tags": [
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294307Z"
+        },
+        {
+            "id": "ID0023",
+            "name": "John Jacobs Square Half 23",
+            "brand": "John Jacobs",
+            "frameType": "Half Rim",
+            "shape": "Square",
+            "color": "Red",
+            "gender": "Unisex",
+            "size": "Wide",
+            "price": 4232,
+            "originalPrice": 6530,
+            "discount": "35% OFF",
+            "rating": 4.7,
+            "reviewCount": 3732,
+            "inStock": false,
+            "sku": "JO0023",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0023_thumb.jpg",
+                "front": "https://example.com/images/JO0023_front.jpg",
+                "side": "https://example.com/images/JO0023_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Clear",
+                "frameWeight_g": 25
+            },
+            "tags": [
+                "budget"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294317Z"
+        },
+        {
+            "id": "ID0024",
+            "name": "EyeStyle Round Rimless 24",
+            "brand": "EyeStyle",
+            "frameType": "Rimless",
+            "shape": "Round",
+            "color": "Pink",
+            "gender": "Men",
+            "size": "Wide",
+            "price": 834,
+            "originalPrice": 1151,
+            "discount": "28% OFF",
+            "rating": 4.8,
+            "reviewCount": 2158,
+            "inStock": true,
+            "sku": "EY0024",
+            "images": {
+                "thumbnail": "https://example.com/images/EY0024_thumb.jpg",
+                "front": "https://example.com/images/EY0024_front.jpg",
+                "side": "https://example.com/images/EY0024_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Clear",
+                "frameWeight_g": 47
+            },
+            "tags": [
+                "metal"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294334Z"
+        },
+        {
+            "id": "ID0025",
+            "name": "Vista Round Rimless 25",
+            "brand": "Vista",
+            "frameType": "Rimless",
+            "shape": "Round",
+            "color": "Black",
+            "gender": "Men",
+            "size": "Extra Wide",
+            "price": 4041,
+            "originalPrice": 6068,
+            "discount": "33% OFF",
+            "rating": 3.9,
+            "reviewCount": 9637,
+            "inStock": false,
+            "sku": "VI0025",
+            "images": {
+                "thumbnail": "https://example.com/images/VI0025_thumb.jpg",
+                "front": "https://example.com/images/VI0025_front.jpg",
+                "side": "https://example.com/images/VI0025_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Polarized",
+                "frameWeight_g": 49
+            },
+            "tags": [
+                "plastic"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294352Z"
+        },
+        {
+            "id": "ID0026",
+            "name": "Lenskart Air Round Rimless 26",
+            "brand": "Lenskart Air",
+            "frameType": "Rimless",
+            "shape": "Round",
+            "color": "Gunmetal",
+            "gender": "Kids",
+            "size": "Narrow",
+            "price": 6660,
+            "originalPrice": 7271,
+            "discount": "8% OFF",
+            "rating": 4.3,
+            "reviewCount": 3304,
+            "inStock": false,
+            "sku": "LE0026",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0026_thumb.jpg",
+                "front": "https://example.com/images/LE0026_front.jpg",
+                "side": "https://example.com/images/LE0026_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Clear",
+                "frameWeight_g": 26
+            },
+            "tags": [
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294362Z"
+        },
+        {
+            "id": "ID0027",
+            "name": "John Jacobs Rectangle Half 27",
+            "brand": "John Jacobs",
+            "frameType": "Half Rim",
+            "shape": "Rectangle",
+            "color": "Gunmetal",
+            "gender": "Women",
+            "size": "Extra Wide",
+            "price": 2656,
+            "originalPrice": 4580,
+            "discount": "42% OFF",
+            "rating": 4.3,
+            "reviewCount": 9198,
+            "inStock": true,
+            "sku": "JO0027",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0027_thumb.jpg",
+                "front": "https://example.com/images/JO0027_front.jpg",
+                "side": "https://example.com/images/JO0027_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Photochromic",
+                "frameWeight_g": 31
+            },
+            "tags": [
+                "lightweight"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294371Z"
+        },
+        {
+            "id": "ID0028",
+            "name": "New Balance Rectangle Full 28",
+            "brand": "New Balance",
+            "frameType": "Full Rim",
+            "shape": "Rectangle",
+            "color": "Red",
+            "gender": "Men",
+            "size": "Extra Narrow",
+            "price": 4376,
+            "originalPrice": 4830,
+            "discount": "9% OFF",
+            "rating": 4.2,
+            "reviewCount": 818,
+            "inStock": true,
+            "sku": "NE0028",
+            "images": {
+                "thumbnail": "https://example.com/images/NE0028_thumb.jpg",
+                "front": "https://example.com/images/NE0028_front.jpg",
+                "side": "https://example.com/images/NE0028_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Photochromic",
+                "frameWeight_g": 43
+            },
+            "tags": [
+                "metal",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294381Z"
+        },
+        {
+            "id": "ID0029",
+            "name": "OWNDAYS Aviator Full 29",
+            "brand": "OWNDAYS",
+            "frameType": "Full Rim",
+            "shape": "Aviator",
+            "color": "Transparent",
+            "gender": "Women",
+            "size": "Medium",
+            "price": 3987,
+            "originalPrice": 4769,
+            "discount": "16% OFF",
+            "rating": 4.6,
+            "reviewCount": 8697,
+            "inStock": true,
+            "sku": "OW0029",
+            "images": {
+                "thumbnail": "https://example.com/images/OW0029_thumb.jpg",
+                "front": "https://example.com/images/OW0029_front.jpg",
+                "side": "https://example.com/images/OW0029_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Blue Light",
+                "frameWeight_g": 24
+            },
+            "tags": [
+                "lightweight",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294393Z"
+        },
+        {
+            "id": "ID0030",
+            "name": "John Jacobs Rectangle Half 30",
+            "brand": "John Jacobs",
+            "frameType": "Half Rim",
+            "shape": "Rectangle",
+            "color": "Gray",
+            "gender": "Men",
+            "size": "Medium",
+            "price": 3403,
+            "originalPrice": 5140,
+            "discount": "34% OFF",
+            "rating": 4.1,
+            "reviewCount": 2513,
+            "inStock": true,
+            "sku": "JO0030",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0030_thumb.jpg",
+                "front": "https://example.com/images/JO0030_front.jpg",
+                "side": "https://example.com/images/JO0030_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Clear",
+                "frameWeight_g": 24
+            },
+            "tags": [
+                "new"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294402Z"
+        },
+        {
+            "id": "ID0031",
+            "name": "Fossil Cat Eye Half 31",
+            "brand": "Fossil",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Red",
+            "gender": "Men",
+            "size": "Extra Narrow",
+            "price": 4354,
+            "originalPrice": 5020,
+            "discount": "13% OFF",
+            "rating": 4.6,
+            "reviewCount": 1326,
+            "inStock": false,
+            "sku": "FO0031",
+            "images": {
+                "thumbnail": "https://example.com/images/FO0031_thumb.jpg",
+                "front": "https://example.com/images/FO0031_front.jpg",
+                "side": "https://example.com/images/FO0031_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Blue Light",
+                "frameWeight_g": 30
+            },
+            "tags": [
+                "plastic",
+                "polarized",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294415Z"
+        },
+        {
+            "id": "ID0032",
+            "name": "OptiClear Rectangle Rimless 32",
+            "brand": "OptiClear",
+            "frameType": "Rimless",
+            "shape": "Rectangle",
+            "color": "Gold",
+            "gender": "Women",
+            "size": "Extra Narrow",
+            "price": 1071,
+            "originalPrice": 2170,
+            "discount": "51% OFF",
+            "rating": 4.1,
+            "reviewCount": 1678,
+            "inStock": true,
+            "sku": "OP0032",
+            "images": {
+                "thumbnail": "https://example.com/images/OP0032_thumb.jpg",
+                "front": "https://example.com/images/OP0032_front.jpg",
+                "side": "https://example.com/images/OP0032_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Polarized",
+                "frameWeight_g": 38
+            },
+            "tags": [
+                "metal",
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294425Z"
+        },
+        {
+            "id": "ID0033",
+            "name": "Raymond Cat Eye Full 33",
+            "brand": "Raymond",
+            "frameType": "Full Rim",
+            "shape": "Cat Eye",
+            "color": "Transparent",
+            "gender": "Kids",
+            "size": "Extra Narrow",
+            "price": 6842,
+            "originalPrice": 7114,
+            "discount": "4% OFF",
+            "rating": 4.1,
+            "reviewCount": 7234,
+            "inStock": true,
+            "sku": "RA0033",
+            "images": {
+                "thumbnail": "https://example.com/images/RA0033_thumb.jpg",
+                "front": "https://example.com/images/RA0033_front.jpg",
+                "side": "https://example.com/images/RA0033_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Photochromic",
+                "frameWeight_g": 16
+            },
+            "tags": [
+                "budget",
+                "plastic"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294435Z"
+        },
+        {
+            "id": "ID0034",
+            "name": "ClassicEyes Geometric Rimless 34",
+            "brand": "ClassicEyes",
+            "frameType": "Rimless",
+            "shape": "Geometric",
+            "color": "Red",
+            "gender": "Women",
+            "size": "Extra Narrow",
+            "price": 5640,
+            "originalPrice": 6985,
+            "discount": "19% OFF",
+            "rating": 4.3,
+            "reviewCount": 8029,
+            "inStock": true,
+            "sku": "CL0034",
+            "images": {
+                "thumbnail": "https://example.com/images/CL0034_thumb.jpg",
+                "front": "https://example.com/images/CL0034_front.jpg",
+                "side": "https://example.com/images/CL0034_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Photochromic",
+                "frameWeight_g": 15
+            },
+            "tags": [
+                "bestseller",
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294444Z"
+        },
+        {
+            "id": "ID0035",
+            "name": "EyeStyle Geometric Full 35",
+            "brand": "EyeStyle",
+            "frameType": "Full Rim",
+            "shape": "Geometric",
+            "color": "Gunmetal",
+            "gender": "Kids",
+            "size": "Extra Wide",
+            "price": 5539,
+            "originalPrice": 5811,
+            "discount": "5% OFF",
+            "rating": 3.8,
+            "reviewCount": 5249,
+            "inStock": true,
+            "sku": "EY0035",
+            "images": {
+                "thumbnail": "https://example.com/images/EY0035_thumb.jpg",
+                "front": "https://example.com/images/EY0035_front.jpg",
+                "side": "https://example.com/images/EY0035_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Polarized",
+                "frameWeight_g": 28
+            },
+            "tags": [
+                "lightweight"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294453Z"
+        },
+        {
+            "id": "ID0036",
+            "name": "John Jacobs Cat Eye Full 36",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Cat Eye",
+            "color": "Blue",
+            "gender": "Kids",
+            "size": "Extra Narrow",
+            "price": 3336,
+            "originalPrice": 4292,
+            "discount": "22% OFF",
+            "rating": 4.7,
+            "reviewCount": 6326,
+            "inStock": true,
+            "sku": "JO0036",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0036_thumb.jpg",
+                "front": "https://example.com/images/JO0036_front.jpg",
+                "side": "https://example.com/images/JO0036_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Clear",
+                "frameWeight_g": 27
+            },
+            "tags": [
+                "bestseller",
+                "metal"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294464Z"
+        },
+        {
+            "id": "ID0037",
+            "name": "OptiClear Square Full 37",
+            "brand": "OptiClear",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Rose Gold",
+            "gender": "Men",
+            "size": "Medium",
+            "price": 4677,
+            "originalPrice": 6479,
+            "discount": "28% OFF",
+            "rating": 4.0,
+            "reviewCount": 4763,
+            "inStock": true,
+            "sku": "OP0037",
+            "images": {
+                "thumbnail": "https://example.com/images/OP0037_thumb.jpg",
+                "front": "https://example.com/images/OP0037_front.jpg",
+                "side": "https://example.com/images/OP0037_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Blue Light",
+                "frameWeight_g": 42
+            },
+            "tags": [
+                "budget",
+                "lightweight",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294473Z"
+        },
+        {
+            "id": "ID0038",
+            "name": "OWNDAYS Round Half 38",
+            "brand": "OWNDAYS",
+            "frameType": "Half Rim",
+            "shape": "Round",
+            "color": "Brown",
+            "gender": "Unisex",
+            "size": "Narrow",
+            "price": 2358,
+            "originalPrice": 3906,
+            "discount": "40% OFF",
+            "rating": 4.4,
+            "reviewCount": 8232,
+            "inStock": true,
+            "sku": "OW0038",
+            "images": {
+                "thumbnail": "https://example.com/images/OW0038_thumb.jpg",
+                "front": "https://example.com/images/OW0038_front.jpg",
+                "side": "https://example.com/images/OW0038_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Photochromic",
+                "frameWeight_g": 14
+            },
+            "tags": [
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294482Z"
+        },
+        {
+            "id": "ID0039",
+            "name": "Lenskart STUDIO Geometric Half 39",
+            "brand": "Lenskart STUDIO",
+            "frameType": "Half Rim",
+            "shape": "Geometric",
+            "color": "Red",
+            "gender": "Women",
+            "size": "Extra Wide",
+            "price": 801,
+            "originalPrice": 2384,
+            "discount": "66% OFF",
+            "rating": 4.7,
+            "reviewCount": 6546,
+            "inStock": true,
+            "sku": "LE0039",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0039_thumb.jpg",
+                "front": "https://example.com/images/LE0039_front.jpg",
+                "side": "https://example.com/images/LE0039_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Polarized",
+                "frameWeight_g": 16
+            },
+            "tags": [
+                "bestseller",
+                "new",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294491Z"
+        },
+        {
+            "id": "ID0040",
+            "name": "Lenskart Air Oval Full 40",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Oval",
+            "color": "Transparent",
+            "gender": "Women",
+            "size": "Medium",
+            "price": 2369,
+            "originalPrice": 3038,
+            "discount": "22% OFF",
+            "rating": 4.0,
+            "reviewCount": 4224,
+            "inStock": true,
+            "sku": "LE0040",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0040_thumb.jpg",
+                "front": "https://example.com/images/LE0040_front.jpg",
+                "side": "https://example.com/images/LE0040_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Photochromic",
+                "frameWeight_g": 17
+            },
+            "tags": [
+                "budget",
+                "metal",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294504Z"
+        },
+        {
+            "id": "ID0041",
+            "name": "Fossil Oval Full 41",
+            "brand": "Fossil",
+            "frameType": "Full Rim",
+            "shape": "Oval",
+            "color": "Gold",
+            "gender": "Kids",
+            "size": "Medium",
+            "price": 4927,
+            "originalPrice": 5302,
+            "discount": "7% OFF",
+            "rating": 4.3,
+            "reviewCount": 4097,
+            "inStock": true,
+            "sku": "FO0041",
+            "images": {
+                "thumbnail": "https://example.com/images/FO0041_thumb.jpg",
+                "front": "https://example.com/images/FO0041_front.jpg",
+                "side": "https://example.com/images/FO0041_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Blue Light",
+                "frameWeight_g": 18
+            },
+            "tags": [
+                "budget",
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294513Z"
+        },
+        {
+            "id": "ID0042",
+            "name": "Vincent Chase Aviator Half 42",
+            "brand": "Vincent Chase",
+            "frameType": "Half Rim",
+            "shape": "Aviator",
+            "color": "Rose Gold",
+            "gender": "Women",
+            "size": "Narrow",
+            "price": 7442,
+            "originalPrice": 9784,
+            "discount": "24% OFF",
+            "rating": 4.5,
+            "reviewCount": 7802,
+            "inStock": true,
+            "sku": "VI0042",
+            "images": {
+                "thumbnail": "https://example.com/images/VI0042_thumb.jpg",
+                "front": "https://example.com/images/VI0042_front.jpg",
+                "side": "https://example.com/images/VI0042_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Clear",
+                "frameWeight_g": 43
+            },
+            "tags": [
+                "premium"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294523Z"
+        },
+        {
+            "id": "ID0043",
+            "name": "UrbanLook Cat Eye Half 43",
+            "brand": "UrbanLook",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Black",
+            "gender": "Men",
+            "size": "Extra Wide",
+            "price": 5660,
+            "originalPrice": 7269,
+            "discount": "22% OFF",
+            "rating": 4.0,
+            "reviewCount": 7145,
+            "inStock": true,
+            "sku": "UR0043",
+            "images": {
+                "thumbnail": "https://example.com/images/UR0043_thumb.jpg",
+                "front": "https://example.com/images/UR0043_front.jpg",
+                "side": "https://example.com/images/UR0043_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Blue Light",
+                "frameWeight_g": 33
+            },
+            "tags": [
+                "bestseller"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294532Z"
+        },
+        {
+            "id": "ID0044",
+            "name": "John Jacobs Aviator Half 44",
+            "brand": "John Jacobs",
+            "frameType": "Half Rim",
+            "shape": "Aviator",
+            "color": "Rose Gold",
+            "gender": "Men",
+            "size": "Extra Wide",
+            "price": 3220,
+            "originalPrice": 3554,
+            "discount": "9% OFF",
+            "rating": 4.6,
+            "reviewCount": 5622,
+            "inStock": true,
+            "sku": "JO0044",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0044_thumb.jpg",
+                "front": "https://example.com/images/JO0044_front.jpg",
+                "side": "https://example.com/images/JO0044_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Non-prescription",
+                "frameWeight_g": 40
+            },
+            "tags": [
+                "lightweight",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294544Z"
+        },
+        {
+            "id": "ID0045",
+            "name": "Lenskart Geometric Rimless 45",
+            "brand": "Lenskart",
+            "frameType": "Rimless",
+            "shape": "Geometric",
+            "color": "Silver",
+            "gender": "Kids",
+            "size": "Medium",
+            "price": 1659,
+            "originalPrice": 2693,
+            "discount": "38% OFF",
+            "rating": 5.0,
+            "reviewCount": 5762,
+            "inStock": true,
+            "sku": "LE0045",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0045_thumb.jpg",
+                "front": "https://example.com/images/LE0045_front.jpg",
+                "side": "https://example.com/images/LE0045_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Non-prescription",
+                "frameWeight_g": 33
+            },
+            "tags": [
+                "bestseller"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294559Z"
+        },
+        {
+            "id": "ID0046",
+            "name": "Lenskart Oval Rimless 46",
+            "brand": "Lenskart",
+            "frameType": "Rimless",
+            "shape": "Oval",
+            "color": "Pink",
+            "gender": "Men",
+            "size": "Extra Wide",
+            "price": 6239,
+            "originalPrice": 7624,
+            "discount": "18% OFF",
+            "rating": 5.0,
+            "reviewCount": 4524,
+            "inStock": true,
+            "sku": "LE0046",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0046_thumb.jpg",
+                "front": "https://example.com/images/LE0046_front.jpg",
+                "side": "https://example.com/images/LE0046_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Non-prescription",
+                "frameWeight_g": 45
+            },
+            "tags": [
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294574Z"
+        },
+        {
+            "id": "ID0047",
+            "name": "Raymond Cat Eye Half 47",
+            "brand": "Raymond",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Blue",
+            "gender": "Women",
+            "size": "Wide",
+            "price": 5088,
+            "originalPrice": 7550,
+            "discount": "33% OFF",
+            "rating": 4.0,
+            "reviewCount": 4969,
+            "inStock": true,
+            "sku": "RA0047",
+            "images": {
+                "thumbnail": "https://example.com/images/RA0047_thumb.jpg",
+                "front": "https://example.com/images/RA0047_front.jpg",
+                "side": "https://example.com/images/RA0047_side.jpg"
+            },
+            "features": {
+                "material": "Metal",
+                "lens": "Polarized",
+                "frameWeight_g": 24
+            },
+            "tags": [
+                "bestseller",
+                "polarized"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294583Z"
+        },
+        {
+            "id": "ID0048",
+            "name": "New Balance Rectangle Half 48",
+            "brand": "New Balance",
+            "frameType": "Half Rim",
+            "shape": "Rectangle",
+            "color": "Brown",
+            "gender": "Unisex",
+            "size": "Narrow",
+            "price": 7184,
+            "originalPrice": 9462,
+            "discount": "24% OFF",
+            "rating": 5.0,
+            "reviewCount": 2078,
+            "inStock": true,
+            "sku": "NE0048",
+            "images": {
+                "thumbnail": "https://example.com/images/NE0048_thumb.jpg",
+                "front": "https://example.com/images/NE0048_front.jpg",
+                "side": "https://example.com/images/NE0048_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Photochromic",
+                "frameWeight_g": 12
+            },
+            "tags": [
+                "bestseller",
+                "plastic"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294596Z"
+        },
+        {
+            "id": "ID0049",
+            "name": "Lenskart Air Oval Full 49",
+            "brand": "Lenskart Air",
+            "frameType": "Full Rim",
+            "shape": "Oval",
+            "color": "Rose Gold",
+            "gender": "Men",
+            "size": "Wide",
+            "price": 2458,
+            "originalPrice": 4807,
+            "discount": "49% OFF",
+            "rating": 4.7,
+            "reviewCount": 8136,
+            "inStock": true,
+            "sku": "LE0049",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0049_thumb.jpg",
+                "front": "https://example.com/images/LE0049_front.jpg",
+                "side": "https://example.com/images/LE0049_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Polarized",
+                "frameWeight_g": 21
+            },
+            "tags": [
+                "lightweight",
+                "new"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294606Z"
+        },
+        {
+            "id": "ID0050",
+            "name": "ClassicEyes Clubmaster Full 50",
+            "brand": "ClassicEyes",
+            "frameType": "Full Rim",
+            "shape": "Clubmaster",
+            "color": "Gold",
+            "gender": "Men",
+            "size": "Extra Narrow",
+            "price": 3269,
+            "originalPrice": 3700,
+            "discount": "12% OFF",
+            "rating": 4.6,
+            "reviewCount": 4082,
+            "inStock": true,
+            "sku": "CL0050",
+            "images": {
+                "thumbnail": "https://example.com/images/CL0050_thumb.jpg",
+                "front": "https://example.com/images/CL0050_front.jpg",
+                "side": "https://example.com/images/CL0050_side.jpg"
+            },
+            "features": {
+                "material": "Acetate",
+                "lens": "Photochromic",
+                "frameWeight_g": 32
+            },
+            "tags": [
+                "plastic",
+                "polarized",
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294617Z"
+        },
+        {
+            "id": "ID0051",
+            "name": "OptiClear Square Full 51",
+            "brand": "OptiClear",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Red",
+            "gender": "Unisex",
+            "size": "Extra Wide",
+            "price": 7544,
+            "originalPrice": 9271,
+            "discount": "19% OFF",
+            "rating": 4.4,
+            "reviewCount": 3291,
+            "inStock": true,
+            "sku": "OP0051",
+            "images": {
+                "thumbnail": "https://example.com/images/OP0051_thumb.jpg",
+                "front": "https://example.com/images/OP0051_front.jpg",
+                "side": "https://example.com/images/OP0051_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Non-prescription",
+                "frameWeight_g": 34
+            },
+            "tags": [
+                "metal",
+                "polarized",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294637Z"
+        },
+        {
+            "id": "ID0052",
+            "name": "OptiClear Cat Eye Rimless 52",
+            "brand": "OptiClear",
+            "frameType": "Rimless",
+            "shape": "Cat Eye",
+            "color": "Pink",
+            "gender": "Unisex",
+            "size": "Wide",
+            "price": 799,
+            "originalPrice": 3279,
+            "discount": "76% OFF",
+            "rating": 4.0,
+            "reviewCount": 496,
+            "inStock": true,
+            "sku": "OP0052",
+            "images": {
+                "thumbnail": "https://example.com/images/OP0052_thumb.jpg",
+                "front": "https://example.com/images/OP0052_front.jpg",
+                "side": "https://example.com/images/OP0052_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Photochromic",
+                "frameWeight_g": 24
+            },
+            "tags": [
+                "lightweight",
+                "metal",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294647Z"
+        },
+        {
+            "id": "ID0053",
+            "name": "OWNDAYS Aviator Rimless 53",
+            "brand": "OWNDAYS",
+            "frameType": "Rimless",
+            "shape": "Aviator",
+            "color": "Gray",
+            "gender": "Unisex",
+            "size": "Wide",
+            "price": 2120,
+            "originalPrice": 3406,
+            "discount": "38% OFF",
+            "rating": 4.2,
+            "reviewCount": 2718,
+            "inStock": false,
+            "sku": "OW0053",
+            "images": {
+                "thumbnail": "https://example.com/images/OW0053_thumb.jpg",
+                "front": "https://example.com/images/OW0053_front.jpg",
+                "side": "https://example.com/images/OW0053_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Blue Light",
+                "frameWeight_g": 40
+            },
+            "tags": [
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294656Z"
+        },
+        {
+            "id": "ID0054",
+            "name": "EyeStyle Round Rimless 54",
+            "brand": "EyeStyle",
+            "frameType": "Rimless",
+            "shape": "Round",
+            "color": "Silver",
+            "gender": "Women",
+            "size": "Extra Wide",
+            "price": 1194,
+            "originalPrice": 3455,
+            "discount": "65% OFF",
+            "rating": 4.3,
+            "reviewCount": 9625,
+            "inStock": true,
+            "sku": "EY0054",
+            "images": {
+                "thumbnail": "https://example.com/images/EY0054_thumb.jpg",
+                "front": "https://example.com/images/EY0054_front.jpg",
+                "side": "https://example.com/images/EY0054_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Non-prescription",
+                "frameWeight_g": 35
+            },
+            "tags": [
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294665Z"
+        },
+        {
+            "id": "ID0055",
+            "name": "Fossil Aviator Rimless 55",
+            "brand": "Fossil",
+            "frameType": "Rimless",
+            "shape": "Aviator",
+            "color": "Silver",
+            "gender": "Women",
+            "size": "Extra Narrow",
+            "price": 1532,
+            "originalPrice": 2648,
+            "discount": "42% OFF",
+            "rating": 5.0,
+            "reviewCount": 4052,
+            "inStock": false,
+            "sku": "FO0055",
+            "images": {
+                "thumbnail": "https://example.com/images/FO0055_thumb.jpg",
+                "front": "https://example.com/images/FO0055_front.jpg",
+                "side": "https://example.com/images/FO0055_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Blue Light",
+                "frameWeight_g": 15
+            },
+            "tags": [
+                "lightweight",
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294674Z"
+        },
+        {
+            "id": "ID0056",
+            "name": "John Jacobs Square Full 56",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Square",
+            "color": "Transparent",
+            "gender": "Kids",
+            "size": "Wide",
+            "price": 2562,
+            "originalPrice": 3834,
+            "discount": "33% OFF",
+            "rating": 4.3,
+            "reviewCount": 8284,
+            "inStock": false,
+            "sku": "JO0056",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0056_thumb.jpg",
+                "front": "https://example.com/images/JO0056_front.jpg",
+                "side": "https://example.com/images/JO0056_side.jpg"
+            },
+            "features": {
+                "material": "Alloy",
+                "lens": "Polarized",
+                "frameWeight_g": 30
+            },
+            "tags": [
+                "trending"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294685Z"
+        },
+        {
+            "id": "ID0057",
+            "name": "OWNDAYS Round Half 57",
+            "brand": "OWNDAYS",
+            "frameType": "Half Rim",
+            "shape": "Round",
+            "color": "Pink",
+            "gender": "Women",
+            "size": "Wide",
+            "price": 5457,
+            "originalPrice": 7190,
+            "discount": "24% OFF",
+            "rating": 4.6,
+            "reviewCount": 2225,
+            "inStock": true,
+            "sku": "OW0057",
+            "images": {
+                "thumbnail": "https://example.com/images/OW0057_thumb.jpg",
+                "front": "https://example.com/images/OW0057_front.jpg",
+                "side": "https://example.com/images/OW0057_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Photochromic",
+                "frameWeight_g": 41
+            },
+            "tags": [
+                "uv-protection"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294694Z"
+        },
+        {
+            "id": "ID0058",
+            "name": "Zylo Cat Eye Half 58",
+            "brand": "Zylo",
+            "frameType": "Half Rim",
+            "shape": "Cat Eye",
+            "color": "Green",
+            "gender": "Kids",
+            "size": "Extra Wide",
+            "price": 4599,
+            "originalPrice": 5200,
+            "discount": "12% OFF",
+            "rating": 4.4,
+            "reviewCount": 7446,
+            "inStock": true,
+            "sku": "ZY0058",
+            "images": {
+                "thumbnail": "https://example.com/images/ZY0058_thumb.jpg",
+                "front": "https://example.com/images/ZY0058_front.jpg",
+                "side": "https://example.com/images/ZY0058_side.jpg"
+            },
+            "features": {
+                "material": "Titanium",
+                "lens": "Non-prescription",
+                "frameWeight_g": 34
+            },
+            "tags": [
+                "bestseller"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294702Z"
+        },
+        {
+            "id": "ID0059",
+            "name": "Lenskart Square Rimless 59",
+            "brand": "Lenskart",
+            "frameType": "Rimless",
+            "shape": "Square",
+            "color": "Rose Gold",
+            "gender": "Women",
+            "size": "Narrow",
+            "price": 7990,
+            "originalPrice": 8688,
+            "discount": "8% OFF",
+            "rating": 4.9,
+            "reviewCount": 8975,
+            "inStock": true,
+            "sku": "LE0059",
+            "images": {
+                "thumbnail": "https://example.com/images/LE0059_thumb.jpg",
+                "front": "https://example.com/images/LE0059_front.jpg",
+                "side": "https://example.com/images/LE0059_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Photochromic",
+                "frameWeight_g": 22
+            },
+            "tags": [
+                "budget",
+                "new"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294712Z"
+        },
+        {
+            "id": "ID0060",
+            "name": "John Jacobs Cat Eye Full 60",
+            "brand": "John Jacobs",
+            "frameType": "Full Rim",
+            "shape": "Cat Eye",
+            "color": "Black",
+            "gender": "Unisex",
+            "size": "Extra Narrow",
+            "price": 1154,
+            "originalPrice": 2176,
+            "discount": "47% OFF",
+            "rating": 3.8,
+            "reviewCount": 3599,
+            "inStock": true,
+            "sku": "JO0060",
+            "images": {
+                "thumbnail": "https://example.com/images/JO0060_thumb.jpg",
+                "front": "https://example.com/images/JO0060_front.jpg",
+                "side": "https://example.com/images/JO0060_side.jpg"
+            },
+            "features": {
+                "material": "Plastic",
+                "lens": "Polarized",
+                "frameWeight_g": 26
+            },
+            "tags": [
+                "budget",
+                "lightweight"
+            ],
+            "createdAt": "2025-11-27T06:48:45.294722Z"
+        }
+    ]
+}
