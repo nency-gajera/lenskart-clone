@@ -1,15 +1,5 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
 
-/**
- * AuthContext provides:
- * - user: { name, email } | null
- * - signup({ name, email, password })
- * - login({ email, password })
- * - logout()
- * - showAuthModal, setShowAuthModal (control global modal visibility)
- * - authMode, setAuthMode
- */
-
 const AuthContext = createContext();
 
 export function useAuth() {
